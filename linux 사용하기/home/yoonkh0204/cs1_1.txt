@@ -1,2 +1,0 @@
-Sample example text file
-a b c d e f g
